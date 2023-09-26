@@ -1,2 +1,1 @@
-# Golang
-This repository contains different go files dedicated to GO basics
+A simple golang web server
